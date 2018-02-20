@@ -1,0 +1,13 @@
+h1 {
+  color: white;
+  font-family: 'Arial';
+  font-size: 70px;
+  background-color: orange;
+  align-items: center;
+}
+h2 {
+  color: orange;
+  font-family: 'Arial'
+  font-size: 20px;
+  align-items: center;
+}
